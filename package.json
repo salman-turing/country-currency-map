@@ -53,5 +53,8 @@
   },
   "dependencies": {
     "lodash.findkey": "4.6.0"
-  }
+  },
+  "precommit": [
+    "build"
+  ]
 }
