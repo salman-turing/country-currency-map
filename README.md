@@ -4,7 +4,7 @@ Mapping of countries and their primary currency along with currency data.
 
 ## Installation
 
-    npm install country-currency-map
+    npm install country-currency-map-2
 
 ## Usage
 
