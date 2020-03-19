@@ -476,8 +476,8 @@ module.exports = {
     name: 'Qatar Rial (QAR)',
     symbolFormat: 'QAR {#}'
   },
-  ROL: {
-    name: 'Romanian Leu (ROL)',
+  RON: {
+    name: 'Romanian Leu (RON)',
     symbolFormat: 'RON {#}'
   },
   RUB: {
