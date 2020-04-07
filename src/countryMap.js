@@ -509,7 +509,7 @@ module.exports = {
   },
   'Lithuania': {
     'abbreviation': 'LT',
-    'currency': 'LTL'
+    'currency': 'EUR'
   },
   'Luxembourg': {
     'abbreviation': 'LU',
@@ -941,7 +941,7 @@ module.exports = {
   },
   'Venezuela': {
     'abbreviation': 'VE',
-    'currency': 'VES'
+    'currency': 'USD'
   },
   'Viet Nam': {
     'abbreviation': 'VN',
